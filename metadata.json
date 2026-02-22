@@ -1,0 +1,5 @@
+{
+  "name": "XanhSM Taxi Price Calculator",
+  "description": "Calculate taxi fares for XanhSM services in Hanoi based on distance and vehicle type.",
+  "requestFramePermissions": []
+}
