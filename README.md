@@ -1,20 +1,20 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# XanhSM Calculator
 
-# Run and deploy your AI Studio app
+Hanoi taxi fare estimator for Xanh SM Car and Xanh SM Premium.
 
-This contains everything you need to run your app locally.
+## GitHub Pages
 
-View your app in AI Studio: https://ai.studio/apps/28e0a5c4-872c-46d0-aa75-caa3fe98e967
+- Live app: https://vietvudanh.github.io/xanhsm-calculator/
+- Repository: https://github.com/vietvudanh/xanhsm-calculator
+- Deployment workflow: https://github.com/vietvudanh/xanhsm-calculator/actions/workflows/deploy.yml
 
-## Run Locally
+## Screenshot
 
-**Prerequisites:**  Node.js
+![XanhSM Calculator screenshot](./screenshot.png)
 
+## Run locally
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+**Prerequisites:** Node.js
+
+1. Install dependencies: `npm install`
+2. Run the app: `npm run dev`
